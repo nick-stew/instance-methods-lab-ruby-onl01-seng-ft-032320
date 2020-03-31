@@ -6,7 +6,8 @@ class radio_button_tag
 
 def split 
   
-  
-fido = Dog.new 
+  puts "The Dog is sitting"
 
-fido.methods 
+end 
+end 
+
