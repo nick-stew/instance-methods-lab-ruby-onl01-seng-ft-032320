@@ -2,7 +2,7 @@ class radio_button_tag
  
  def bark
    puts "Woof!"
- end
+ end 
 end
 
 fido = Dog.new 
