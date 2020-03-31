@@ -3,8 +3,10 @@ class radio_button_tag
  def bark
    puts "Woof!"
  end 
-end
 
+def split 
+  
+  
 fido = Dog.new 
 
 fido.methods 
